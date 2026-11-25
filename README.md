@@ -1,6 +1,6 @@
-![Competition](https://make.fun/api/badge/competition/u-plucky-finch-20-the-meeting-that-should-have-been-6ce361a9)
-![Rank](https://make.fun/api/badge/rwinsebastianabza-ship-it/Meeting-Email-20261125/rank.svg)
-![Reward](https://make.fun/api/badge/rwinsebastianabza-ship-it/Meeting-Email-20261125/reward.svg)
+[![make.fun · u-plucky-finch-20-the-meeting-that-should-have-been-6ce361a9](https://make.fun/badge/u-plucky-finch-20-the-meeting-that-should-have-been-6ce361a9.svg)](https://make.fun/bounty/u-plucky-finch-20-the-meeting-that-should-have-been-6ce361a9?utm_source=github&utm_medium=readme&utm_campaign=u-plucky-finch-20-the-meeting-that-should-have-been-6ce361a9)
+[![rank](https://make.fun/badge/u-plucky-finch-20-the-meeting-that-should-have-been-6ce361a9/rwinsebastianabza-ship-it/Meeting-Email-20261125/rank.svg)](https://make.fun/bounty/u-plucky-finch-20-the-meeting-that-should-have-been-6ce361a9/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-plucky-finch-20-the-meeting-that-should-have-been-6ce361a9)
+[![reward](https://make.fun/badge/u-plucky-finch-20-the-meeting-that-should-have-been-6ce361a9/rwinsebastianabza-ship-it/Meeting-Email-20261125/reward.svg)](https://make.fun/bounty/u-plucky-finch-20-the-meeting-that-should-have-been-6ce361a9?utm_source=github&utm_medium=readme&utm_campaign=u-plucky-finch-20-the-meeting-that-should-have-been-6ce361a9)
 
 This entry for "The Meeting That Should Have Been an Email" captures the recursive absurdity of corporate bureaucracy: a meeting called to discuss why a meeting wasn't an email, only to realize the email replacement would itself require a meeting to explain. The joke lands in 102 characters of pure meeting-culture satire.
 
